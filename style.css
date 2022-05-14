@@ -80,3 +80,12 @@ font-size: 17px;
 .header-text p{
     font-weight: lighter;
 }
+.hello{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
